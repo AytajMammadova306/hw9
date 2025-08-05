@@ -34,8 +34,15 @@ namespace homework8.models
 
         public Phone(string brandname,string model, decimal price, decimal cost, double count, int ram, string color="Black"): base (brandname,model,price,cost,count)
         {
-            _ram = ram;
-            _color = color;
+            if (ram > 0)
+            {
+                _ram = ram;
+            }
+            else
+            {
+                _ram = 128;
+            }
+                _color = color;
         }
 
         public void Pay(decimal money)

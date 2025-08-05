@@ -27,7 +27,7 @@ namespace homework8
             //Console.WriteLine(product1.Count);
 
 
-            Phone phone1 = new Phone("sumsung", "S23", 1500, 300, 20, 256);
+            Phone phone1 = new Phone("sumsung", "S23", 1500, 300, 20, -100);
             phone1.PrintPhoneInfo();
             //phone1.Pay(5);
             //Console.WriteLine(phone1.Balance);

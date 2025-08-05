@@ -41,7 +41,11 @@ namespace homework8.models
             }
             set
             {
-                _price = value;
+                if (_price <= 0)
+                {
+                    Console.WriteLine("Wrong price");
+                }
+                
             }
         }
         public decimal Cost

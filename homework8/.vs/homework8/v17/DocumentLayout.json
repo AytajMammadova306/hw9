@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\academy\\HW\\hw9\\homework8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw9\\homework8\\homework8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|solutionrelative:homework8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw9\\homework8\\homework8\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|solutionrelative:homework8\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw9\\homework8\\homework8\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|solutionrelative:homework8\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw9\\homework8\\homework8\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|solutionrelative:homework8\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw9\\homework8\\homework8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|solutionrelative:homework8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F76D339-2034-4DEB-9DCE-42F2EE2620E6}|homework8\\homework8.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw9\\homework8\\homework8\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,33 +40,33 @@
               "RelativeDocumentMoniker": "homework8\\models\\Phone.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw9\\homework8\\homework8\\models\\Phone.cs",
               "RelativeToolTip": "homework8\\models\\Phone.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAuwDsAAACRAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T11:22:10.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\hw9\\homework8\\homework8\\Program.cs",
               "RelativeDocumentMoniker": "homework8\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw9\\homework8\\homework8\\Program.cs",
               "RelativeToolTip": "homework8\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T11:14:32.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\hw9\\homework8\\homework8\\models\\Product.cs",
               "RelativeDocumentMoniker": "homework8\\models\\Product.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw9\\homework8\\homework8\\models\\Product.cs",
               "RelativeToolTip": "homework8\\models\\Product.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwFwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T14:19:18.647Z",
               "EditorCaption": ""

@@ -38,7 +38,7 @@ namespace homework8.models
             _color = color;
         }
 
-        public void Pay(int money)
+        public void Pay(decimal money)
         {
             _balance += money;
         }
@@ -54,6 +54,10 @@ namespace homework8.models
             {
                 Console.WriteLine("balansda kifayet qeder vesait yoxdur");
             }
+        }
+        public void PrintPhoneInfo()
+        {
+            Console.WriteLine($"Brand Name:{_brandName}, Model:{_model}, Price:{_price}, Cost:{_cost}, Count:{_count}, Color:{_color}, RAM:{_ram}");
         }
     }
 }

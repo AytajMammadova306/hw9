@@ -3,12 +3,12 @@ namespace homework8.models
 {
     internal class Product
     {
-        private string _brandName;
-        private string _model;
-        private decimal _price;
-        private decimal _cost;
-        private decimal _income;
-        private double _count;
+        protected string _brandName;
+        protected string _model;
+        protected decimal _price;
+        protected decimal _cost;
+        protected decimal _income;
+        protected double _count;
         public string BrandName
         {
             get
@@ -91,7 +91,7 @@ namespace homework8.models
         
         public void PrintInfo()
         {
-            Console.WriteLine($"Brand Name:{BrandName}, Model:{Model}, Price:{Price}, Cost:{Cost}, Count:{Count}");
+            Console.WriteLine($"Brand Name:{_brandName}, Model:{_model}, Price:{_price}, Cost:{_cost}, Count:{_count}");
         }
 
         public void Sale(int soldcount)
